@@ -1,0 +1,356 @@
+<div align="center">
+
+<img src="https://github.com/BagdadBreadFactory.png?size=400" width="170" alt="Bagdad Bread Factory logo">
+
+# 🥖 BAGDAD BREAD FACTORY & SWEETS
+
+### **Tradition · Quality · Taste**
+
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=24&duration=2800&pause=900&color=F4B860&center=true&vCenter=true&width=720&lines=Crafting+Freshness+Since+1998;Quality+You+Can+Taste;Tradition+Made+Fresh+Every+Day;Building+the+Future%2C+One+Idea+at+a+Time" alt="Animated typing banner">
+
+<br>
+
+<img src="https://img.shields.io/badge/EST.-1998-F4B860?style=for-the-badge&labelColor=0D1117">
+<img src="https://img.shields.io/badge/BAKERY-%26-SWEETS-EF8354?style=for-the-badge&labelColor=0D1117">
+<img src="https://img.shields.io/badge/QUALITY-FIRST-22C55E?style=for-the-badge&labelColor=0D1117">
+
+<br><br>
+
+<a href="https://github.com/BagdadBreadFactory">
+  <img src="https://img.shields.io/badge/GitHub-BagdadBreadFactory-181717?style=for-the-badge&logo=github">
+</a>
+<a href="https://github.com/BagdadBreadFactory?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore-Repositories-2ea44f?style=for-the-badge&logo=github">
+</a>
+
+</div>
+
+---
+
+## 🏛️ About Us
+
+**Bagdad Bread Factory & Sweets** is a bakery and sweets brand with a journey
+that began in **1998**.
+
+Our philosophy is simple:
+
+> **Make quality products. Serve people well. Keep moving forward.**
+
+From traditional bakery values to a growing digital presence, we continue to
+combine **experience, craftsmanship and modern ideas**.
+
+---
+
+## ✨ What We Represent
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 🥖 BAKERY
+
+Fresh bakery products prepared with care, consistency and attention to quality.
+
+</td>
+<td width="33%" align="center">
+
+### 🍰 SWEETS
+
+A sweet side of our journey, created for everyday moments and celebrations.
+
+</td>
+<td width="33%" align="center">
+
+### ⭐ QUALITY
+
+A long-term commitment to freshness, consistency and customer satisfaction.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🕰️ Our Journey
+
+<div align="center">
+
+```text
+                         BAGDAD BREAD FACTORY
+                                  │
+                                  ▼
+                            🏁 1998
+                         THE BEGINNING
+                                  │
+                                  ▼
+                           🥖 BAKERY
+                       Growing the craft
+                                  │
+                                  ▼
+                           🍰 SWEETS
+                     Expanding the taste
+                                  │
+                                  ▼
+                           ⭐ TRUST
+                    Building relationships
+                                  │
+                                  ▼
+                           💻 DIGITAL
+                  Entering the modern world
+                                  │
+                                  ▼
+                            🚀 TODAY
+                                  │
+                                  ▼
+                          🔮 THE FUTURE
+```
+
+</div>
+
+---
+
+## 🎯 Our Mission
+
+<div align="center">
+
+### _"To deliver quality, freshness and great taste while carrying our tradition forward."_
+
+</div>
+
+We believe a strong brand is built through small details:
+**quality, consistency, trust, improvement and care.**
+
+Our goal is to preserve what makes our journey special while embracing
+new opportunities for the future.
+
+---
+
+## 💎 Our Core Values
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🥇 QUALITY
+
+We focus on maintaining high standards and consistent results.
+
+</td>
+<td align="center" width="50%">
+
+### 🌱 FRESHNESS
+
+Freshness is an important part of a better customer experience.
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 🤝 TRUST
+
+Strong customer relationships are built through reliability.
+
+</td>
+<td align="center">
+
+### 🏛️ TRADITION
+
+We respect the experience and values behind our journey since 1998.
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 💡 INNOVATION
+
+We welcome technology and new ideas that can help us move forward.
+
+</td>
+<td align="center">
+
+### 🚀 GROWTH
+
+We keep learning, improving and building toward the future.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💻 Our Digital Presence
+
+Technology is becoming an important part of modern businesses.
+
+This GitHub organization is a place for our digital projects, experiments,
+web development and future technology initiatives.
+
+### ⚙️ Technology
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,github,vscode" alt="Technology icons">
+
+</div>
+
+---
+
+## 📂 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/BagdadBreadFactory/bagdad-bread-factory">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=BagdadBreadFactory&repo=bagdad-bread-factory&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=F4B860&icon_color=EF8354" alt="Bagdad Bread Factory repository">
+
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/BagdadBreadFactory/BagdadBreadFactory">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=BagdadBreadFactory&repo=BagdadBreadFactory&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=F4B860&icon_color=EF8354" alt="BagdadBreadFactory repository">
+
+</a>
+
+</div>
+
+---
+
+## 📊 GitHub Overview
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=BagdadBreadFactory&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=F4B860&icon_color=EF8354&text_color=FFFFFF" height="175" alt="GitHub statistics">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BagdadBreadFactory&layout=compact&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=F4B860&text_color=FFFFFF" height="175" alt="Top languages">
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BagdadBreadFactory&bg_color=0D1117&color=F4B860&line=EF8354&point=FFFFFF&area=true&hide_border=true&custom_title=Bagdad%20Bread%20Factory%20%E2%80%94%20GitHub%20Activity" width="96%" alt="GitHub contribution activity">
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=BagdadBreadFactory&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="96%" alt="GitHub trophies">
+
+</div>
+
+---
+
+## 🔍 Explore Our Work
+
+<table>
+<tr>
+<td>
+
+**📦 Repositories**
+
+Explore our public development projects and experiments.
+
+</td>
+<td>
+
+**⭐ Organization**
+
+Follow the organization to keep up with future work.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<a href="https://github.com/BagdadBreadFactory?tab=repositories">
+<img src="https://img.shields.io/badge/📦%20VIEW%20ALL%20REPOSITORIES-2EA44F?style=for-the-badge" alt="View repositories">
+</a>
+
+<a href="https://github.com/BagdadBreadFactory">
+<img src="https://img.shields.io/badge/⭐%20VISIT%20OUR%20GITHUB-24292F?style=for-the-badge&logo=github" alt="Visit GitHub">
+</a>
+
+</div>
+
+---
+
+## ❓ Frequently Asked
+
+<details>
+<summary><strong>🏁 When was Bagdad Bread Factory established?</strong></summary>
+
+Bagdad Bread Factory & Sweets was established in **1998**.
+
+</details>
+
+<details>
+<summary><strong>💻 What is this GitHub organization for?</strong></summary>
+
+This organization is used to showcase and develop digital projects,
+websites and technology-related work connected with our digital presence.
+
+</details>
+
+<details>
+<summary><strong>🚀 What is the future direction?</strong></summary>
+
+We aim to continue improving our digital presence while staying connected
+to the quality and traditions that have shaped our journey.
+
+</details>
+
+---
+
+## 🌟 A Simple Philosophy
+
+<div align="center">
+
+### 🥖 GOOD FOOD BRINGS PEOPLE TOGETHER
+
+### 🍰 GREAT TASTE CREATES MEMORIES
+
+### ⭐ QUALITY BUILDS TRUST
+
+### 🚀 INNOVATION BUILDS THE FUTURE
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F4B860&section=footer" width="80%">
+
+<br>
+
+### **BAGDAD BREAD FACTORY & SWEETS**
+
+**EST. 1998**
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=BagdadBreadFactory&label=PROFILE%20VIEWS&color=F4B860&style=for-the-badge" alt="Profile views">
+
+<br><br>
+
+<sub>Tradition • Quality • Taste • Innovation</sub>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,50:111827,100:1F2937&animation=fadeIn" width="100%">
+
+</div>
