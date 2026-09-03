@@ -1,30 +1,32 @@
 <div align="center">
 
-<img src="https://github.com/BagdadBreadFactory.png?size=400" width="170" alt="Bagdad Bread Factory logo">
 
-# 🥖 BAGDAD BREAD FACTORY & SWEETS
 
-### **Tradition · Quality · Taste**
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=24&duration=2800&pause=900&color=F4B860&center=true&vCenter=true&width=720&lines=Crafting+Freshness+Since+1998;Quality+You+Can+Taste;Tradition+Made+Fresh+Every+Day;Building+the+Future%2C+One+Idea+at+a+Time" alt="Animated typing banner">
+<h1 style="font-family: Georgia, 'Times New Roman', serif; font-size: 46px; letter-spacing: 2px;">
+  BAGDAD BREAD FACTORY
+</h1>
+<h2 style="font-family: Georgia, 'Times New Roman', serif; font-size: 28px; letter-spacing: 6px;">
+  &amp; SWEETS
+</h2>
+
+<p>
+  <strong>EST. 1998</strong>
+  &nbsp; • &nbsp;
+  <em>Tradition · Quality · Taste</em>
+</p>
 
 <br>
 
-<img src="https://img.shields.io/badge/EST.-1998-F4B860?style=for-the-badge&labelColor=0D1117">
-<img src="https://img.shields.io/badge/BAKERY-%26-SWEETS-EF8354?style=for-the-badge&labelColor=0D1117">
-<img src="https://img.shields.io/badge/QUALITY-FIRST-22C55E?style=for-the-badge&labelColor=0D1117">
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=3000&pause=1000&color=F4B860&center=true&vCenter=true&width=650&lines=Crafting+Freshness+Since+1998;Quality+You+Can+Taste;Tradition+Made+Fresh+Every+Day"
+     alt="Animated tagline">
 
 <br><br>
 
-<a href="https://github.com/BagdadBreadFactory">
-  <img src="https://img.shields.io/badge/GitHub-BagdadBreadFactory-181717?style=for-the-badge&logo=github">
-</a>
-<a href="https://github.com/BagdadBreadFactory?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore-Repositories-2ea44f?style=for-the-badge&logo=github">
-</a>
+<img src="https://img.shields.io/badge/EST.-1998-F4B860?style=for-the-badge&labelColor=0D1117">
+<img src="https://img.shields.io/badge/QUALITY-FIRST-22C55E?style=for-the-badge&labelColor=0D1117">
 
 </div>
-
 ---
 
 ## 🏛️ About Us
